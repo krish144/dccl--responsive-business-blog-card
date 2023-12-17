@@ -5,7 +5,7 @@
 
 ## Overview
 
-![screenshot](https://github.com/krish144/Minimal-Blog-Card/blob/main/dccl--responsive-mini-blog-card/assets/img/Screenshot%202023-11-28%20063439.jpg)
+![screenshot]([https://github.com/krish144/Minimal-Blog-Card/blob/main/dccl--responsive-mini-blog-card/assets/img/Screenshot%202023-11-28%20063439.jpg](https://github.com/krish144/dccl--responsive-business-blog-card/blob/main/dccl--responsive-business-blog-card/Screenshot.jpg))
 
 
 
