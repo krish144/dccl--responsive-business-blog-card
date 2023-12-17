@@ -11,4 +11,4 @@
 
 ## Solutions
 
-Live Demo - [Link](https://famous-choux-4c3dbf.netlify.app/](https://incandescent-flan-766456.netlify.app/)https://incandescent-flan-766456.netlify.app/)
+Live Demo - [Link](https://incandescent-flan-766456.netlify.app/)
